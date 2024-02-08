@@ -1,2 +1,2 @@
 # Ejercicios_Lenguajes
-Repositorio de ejercicios LENGUAJES DE PROGRAMACIÓN IS2023
+Repositorio de ejercicios LENGUAJES DE PROGRAMACIÓN IS2024
